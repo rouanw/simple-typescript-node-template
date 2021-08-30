@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "A simple template to write typescript for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rouanw/simple-typescript-node-template.git"
+  },
+  "author": "rouanw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rouanw/simple-typescript-node-template/issues"
+  },
+  "homepage": "https://github.com/rouanw/simple-typescript-node-template#readme"
+}
