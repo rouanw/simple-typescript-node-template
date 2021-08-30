@@ -7,16 +7,7 @@
     "build": "tsc",
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rouanw/simple-typescript-node-template.git"
-  },
-  "author": "rouanw",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/rouanw/simple-typescript-node-template/issues"
-  },
-  "homepage": "https://github.com/rouanw/simple-typescript-node-template#readme",
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",
     "@types/jest": "^27.0.1",
