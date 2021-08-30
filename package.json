@@ -4,7 +4,8 @@
   "description": "A simple template to write typescript for node",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,9 @@
   "homepage": "https://github.com/rouanw/simple-typescript-node-template#readme",
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",
+    "@types/jest": "^27.0.1",
+    "jest": "^27.1.0",
+    "ts-jest": "^27.0.5",
     "typescript": "^4.4.2"
   }
 }
