@@ -1,5 +1,5 @@
 {
-  "name": "y",
+  "name": "simple-typescript-node-template",
   "version": "1.0.0",
   "description": "A simple template to write typescript for node",
   "main": "dist/index.js",
